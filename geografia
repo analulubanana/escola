@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Capitalismo vs. Socialismo</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #ffffff; /* branco */
+            color: #000000; /* preto */
+        }
+        header {
+            background-color: #0000ff; /* azul */
+            color: #ffffff; /* branco */
+            padding: 20px;
+            text-align: center;
+        }
+        nav {
+            background-color: #ff0000; /* vermelho */
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            color: #ffffff; /* branco */
+            text-decoration: none;
+            padding: 10px;
+            margin: 0 10px;
+        }
+        section {
+            padding: 20px;
+        }
+        footer {
+            background-color: #0000ff; /* azul */
+            color: #ffffff; /* branco */
+            padding: 10px;
+            text-align: center;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Capitalismo vs. Socialismo</h1>
+    </header>
+
+    <nav>
+        <a href="#capitalismo">Capitalismo</a>
+        <a href="#socialismo">Socialismo</a>
+        <a href="#misto">Misto</a>
+    </nav>
+
+    <section id="inicio">
+        <h2>O que é Capitalismo e Socialismo?</h2>
+        <p>O capitalismo é um sistema econômico baseado na propriedade privada dos meios de produção e na busca do lucro. Nele, a livre concorrência é um elemento chave, onde os preços são determinados pelo mercado e não pelo governo.</p>
+        <p>O socialismo é um sistema econômico e político baseado na propriedade coletiva ou estatal dos meios de produção. Ele busca a igualdade social e econômica, e muitas vezes envolve uma planificação central da economia.</p>
+    </section>
+
+    <section id="capitalismo">
+        <h2>Capitalismo</h2>
+        <p>O capitalismo é um sistema econômico baseado na propriedade privada dos meios de produção e na busca do lucro. Nele, a livre concorrência é um elemento chave, onde os preços são determinados pelo mercado e não pelo governo.</p>
+    </section>
+
+    <section id="socialismo">
+        <h2>Socialismo</h2>
+        <p>O socialismo é um sistema econômico e político baseado na propriedade coletiva ou estatal dos meios de produção. Ele busca a igualdade social e econômica, e muitas vezes envolve uma planificação central da economia.</p>
+    </section>
+
+    <section id="misto">
+        <h2>Misto</h2>
+        <p>Um sistema econômico misto combina elementos do capitalismo e do socialismo. Ele pode incluir propriedade privada e livre mercado, mas também intervenções do governo para garantir o bem-estar social e reduzir as desigualdades.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Capitalismo vs. Socialismo</p>
+    </footer>
+
+</body>
+</html>
